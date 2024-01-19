@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sourcetohtml</groupId>
-    <artifactId>sourcetohtml</artifactId>
+    <artifactId>soucetohtml</artifactId>
     <version>1.0</version>
     <description>2024 Version of Source to HTML </description>
     <url>http://sourcetohtml.com</url>
